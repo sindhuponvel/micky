@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-28T10:56:21 IST" name="Surefire suite" finished-at="2024-08-28T10:56:28 IST" duration-ms="6532">
+    <groups>
+    </groups>
+    <test started-at="2024-08-28T10:56:21 IST" name="Surefire test" finished-at="2024-08-28T10:56:28 IST" duration-ms="6532">
+      <class name="demo.browserLaunch">
+        <test-method signature="demo()[pri:0, instance:demo.browserLaunch@60d8c9b7]" started-at="2024-08-28T10:56:21 IST" name="demo" finished-at="2024-08-28T10:56:28 IST" duration-ms="6490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- demo.browserLaunch -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
